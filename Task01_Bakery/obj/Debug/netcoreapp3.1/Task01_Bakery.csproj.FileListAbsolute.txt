@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Mid_Exam\Mid_Exam\obj\Debug\netcoreapp3.1\Task01_Bakery.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Mid_Exam\Mid_Exam\obj\Debug\netcoreapp3.1\Task01_Bakery.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Mid_Exam\Mid_Exam\obj\Debug\netcoreapp3.1\Task01_Bakery.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Mid_Exam\Mid_Exam\obj\Debug\netcoreapp3.1\Task01_Bakery.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Mid_Exam\Mid_Exam\bin\Debug\netcoreapp3.1\Task01_Bakery.exe
+C:\Users\Kiril\source\repos\Mid_Exam\Mid_Exam\bin\Debug\netcoreapp3.1\Task01_Bakery.deps.json
+C:\Users\Kiril\source\repos\Mid_Exam\Mid_Exam\bin\Debug\netcoreapp3.1\Task01_Bakery.runtimeconfig.json
+C:\Users\Kiril\source\repos\Mid_Exam\Mid_Exam\bin\Debug\netcoreapp3.1\Task01_Bakery.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Mid_Exam\Mid_Exam\bin\Debug\netcoreapp3.1\Task01_Bakery.dll
+C:\Users\Kiril\source\repos\Mid_Exam\Mid_Exam\bin\Debug\netcoreapp3.1\Task01_Bakery.pdb
+C:\Users\Kiril\source\repos\Mid_Exam\Mid_Exam\obj\Debug\netcoreapp3.1\Task01_Bakery.dll
+C:\Users\Kiril\source\repos\Mid_Exam\Mid_Exam\obj\Debug\netcoreapp3.1\Task01_Bakery.pdb
+C:\Users\Kiril\source\repos\Mid_Exam\Mid_Exam\obj\Debug\netcoreapp3.1\Task01_Bakery.genruntimeconfig.cache
